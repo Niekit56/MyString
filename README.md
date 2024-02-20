@@ -1,0 +1,1 @@
+This code shows us how the string library works from the inside. Key properties have been passed here using the OOP paradigm for better interaction. It also shows all the features of the written library in Sours.cpp
